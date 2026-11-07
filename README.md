@@ -106,7 +106,7 @@ The author runs two websites: sharehub.fun for overseas readers and ynwone.com f
 | robots.txt and sitemap | Both present; the pre-release check makes sure the sitemap matches the pages one to one | Both present, same check |
 | AI crawler policy | robots.txt allows all crawlers and lists each AI crawler and social preview crawler (all Allow); after publishing, the live file is compared byte for byte with the local one so a platform cannot rewrite it | robots.txt lists the AI crawlers |
 | Languages | Chinese, English, Spanish and French, each with its own URL and linked with hreflang | Chinese only |
-| IndexNow | Set up | Not applicable |
+| IndexNow | Set up | Set up |
 | Filing and compliance | Privacy policy and terms of service | ICP filing completed |
 | llms.txt | Present and lists every page; treated as grade X, so we do not expect citations from it | Same |
 
