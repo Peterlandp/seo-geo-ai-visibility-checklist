@@ -123,8 +123,8 @@ The full explanation, in article form:
 
 ## Sources
 
-- Google Search Central: AI features and your website
-- Ahrefs: llms.txt study of 137K sites (June 15, 2026)
+- Google Search Central, AI features and your website: https://developers.google.com/search/docs/appearance/ai-features
+- Ahrefs, We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read (June 2026): https://ahrefs.com/blog/llmstxt-study/
 
 ## Author and disclaimer
 
