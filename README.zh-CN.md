@@ -106,7 +106,7 @@
 | robots.txt、Sitemap | 有，发布前检查 Sitemap 与页面一一对应 | 有，同样检查 |
 | AI 爬虫策略 | robots.txt 对所有爬虫放开，并逐个列出各 AI 爬虫和社交预览爬虫（均为 Allow）；发布后检查线上文件与本地逐字一致，防止被平台改写 | robots.txt 里列出各 AI 爬虫 |
 | 多语言 | 中、英、西、法四种语言各有独立网址，用 hreflang 互相指向 | 仅中文 |
-| IndexNow | 已接入 | 不适用 |
+| IndexNow | 已接入 | 已接入 |
 | 备案与合规 | 隐私政策、服务条款 | 已完成 ICP 备案 |
 | llms.txt | 有，列出全部页面；按 X 级对待，不指望它带来引用 | 同左 |
 
@@ -118,7 +118,8 @@
 
 完整的说明文章：
 
-- 中文：https://www.sharehub.fun/zh/guides/geo-site-checklist/
+- 中文：https://www.ynwone.com/guides/geo-site-checklist/
+- 中文（海外站版本）：https://www.sharehub.fun/zh/guides/geo-site-checklist/
 - English: https://www.sharehub.fun/guides/geo-site-checklist/
 
 ## 来源
