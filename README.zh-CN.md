@@ -123,8 +123,8 @@
 
 ## 来源
 
-- Google Search Central：AI features and your website
-- Ahrefs：137K 站点的 llms.txt 研究（2026-06-15）
+- Google Search Central，AI features and your website：https://developers.google.com/search/docs/appearance/ai-features
+- Ahrefs，We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read（2026 年 6 月）：https://ahrefs.com/blog/llmstxt-study/
 
 ## 作者与声明
 
